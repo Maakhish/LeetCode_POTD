@@ -34,3 +34,10 @@ public:
         return grid;
     }
 };
+
+// we can make this a bit efficient by using a single loop and using some flag to sort at once using that flag for the order whether to sort in ascending or in descending order
+// that would not increase the efficiency much
+
+// tc : O(n^2logn)
+// sc: O(n) 
+// this is also optimal approach
