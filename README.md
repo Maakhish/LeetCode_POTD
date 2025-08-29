@@ -9,3 +9,4 @@
 ### August
 
 - **August 28** - [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/?envType=daily-question&envId=2025-08-28)
+- **August 29** - [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/?envType=daily-question&envId=2025-08-29)
