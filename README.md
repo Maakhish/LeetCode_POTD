@@ -12,3 +12,7 @@
 - **August 29** - [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/?envType=daily-question&envId=2025-08-29)
 - **August 30** - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/?envType=daily-question&envId=2025-08-30)
 - **August 31** - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/?envType=daily-question&envId=2025-08-31)
+
+### September
+
+- **September 1** - [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/?envType=daily-question&envId=2025-09-01)
