@@ -16,3 +16,4 @@
 ### September
 
 - **September 1** - [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/?envType=daily-question&envId=2025-09-01)
+- **September 2** - [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02)
