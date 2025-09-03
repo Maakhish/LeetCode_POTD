@@ -3,17 +3,18 @@
 ### March
 
 - **March 1** - [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=daily-question&envId=2025-03-01)
-- **March 2** - [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/?envType=daily-question&envId=2025-03-02)
+- **March 2** - [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/?envType=daily-question&envId=2025-03-02)
 - **March 3** - [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/?envType=daily-question&envId=2025-03-03)
 
 ### August
 
-- **August 28** - [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/?envType=daily-question&envId=2025-08-28)
-- **August 29** - [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/?envType=daily-question&envId=2025-08-29)
-- **August 30** - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/?envType=daily-question&envId=2025-08-30)
-- **August 31** - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/?envType=daily-question&envId=2025-08-31)
+- **August 28** - [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/?envType=daily-question&envId=2025-08-28)
+- **August 29** - [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/?envType=daily-question&envId=2025-08-29)
+- **August 30** - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/?envType=daily-question&envId=2025-08-30)
+- **August 31** - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/?envType=daily-question&envId=2025-08-31)
 
 ### September
 
-- **September 1** - [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/?envType=daily-question&envId=2025-09-01)
+- **September 1** - [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2025-09-01)
 - **September 2** - [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02)
+- **September 3** - [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/?envType=daily-question&envId=2025-09-03)
